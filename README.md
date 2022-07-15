@@ -3,5 +3,5 @@
 
 ![](images/vjdx30.png)
 
-### VJ-DX 30 contains two channels with multiple means of keying and feeding back imagery. The ramps fed to the crossfader are as follow
+### VJ-DX 30 contains two channels with multiple means of keying and feeding back imagery. The ramps fed to the crossfader are as follows
 ![](images/wipes.png)
