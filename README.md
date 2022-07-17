@@ -7,4 +7,5 @@
 ![](images/wipes.png)
 
 
+#### Currently one bank of wipe patterns, invert effect and "T-Bar" are working
 https://github.com/ncavazos/VJ-DX-30/blob/main/vj_dx_30.tox <---- file to put in your TouchDesigner pallette
