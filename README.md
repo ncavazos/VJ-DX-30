@@ -5,3 +5,6 @@
 
 ### VJ-DX 30 contains two channels with multiple means of keying and feeding back imagery. The ramps fed to the crossfader are as follows
 ![](images/wipes.png)
+
+
+https://github.com/ncavazos/VJ-DX-30/blob/main/vj-dx30.tox <---- file to put in your TouchDesigner pallette
