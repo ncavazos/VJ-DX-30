@@ -7,4 +7,4 @@
 ![](images/wipes.png)
 
 
-https://github.com/ncavazos/VJ-DX-30/blob/main/vj-dx30.tox <---- file to put in your TouchDesigner pallette
+https://github.com/ncavazos/VJ-DX-30/blob/main/vj_dx_30.tox <---- file to put in your TouchDesigner pallette
